@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Kevin",
+      "description": "Developer"
+    },
+    {
+      "id": "2",
+      "name": "Robin",
+      "description": "HR"
+    },
+    {
+      "id": "3",
+      "name": "Sameer",
+      "description": "Tester"
+    },
+    {
+      "id": "4",
+      "name": "Guru",
+      "description": "Game Developer"
+    }
+  ]
+}
